@@ -1,0 +1,64 @@
+body {
+  background: #fafafa;
+  color: #125688;
+  font-family: Montserrat; 
+  margin:0px auto;
+  padding-bottom:0px;
+  padding-top: 0px;}
+
+#main-container {
+  margin: 10px auto;
+  margin-bottom: 0;
+  padding-bottom:0;
+   }
+
+
+.login-box,
+.signup-box {
+  background-color: white;
+  border: 1px solid #edeeee;
+  border-radius: 3px;
+  padding: 10px 0;
+  text-align: center;
+  margin-bottom:0px;
+   }
+
+.signup-box .EasyAcademy {
+  font-family: 'Sansita';
+  font-size: 60px;
+  padding-bottom: 0px;
+  padding-top: 30px;
+  margin-top: 0px; }
+
+.signup-box .EasyAcademy_small {
+  font-family: 'Sansita';
+  font-size: 34px;
+  padding-bottom: 0px;
+  padding-top: 30px;
+  margin-top: 0px; }
+  
+.signup-form {
+  width: 65%;
+  margin: 0 auto; }
+
+.signup-form h2 {
+  color: #a5a7aa;
+  font-size: 1.2em;
+  padding-top: 0px;
+  margin-top: 0px; }
+
+.signup-form .btn.btn-fb, .signup-form .btn-fb.btn-large {
+  background-color: #4090db;
+  font-size: .8em;
+  padding-top: 0px; }
+
+.signup-form .btn.btn-signup, .signup-form .btn-signup.btn-large {
+  background-color: #125688; }
+
+.site-footer {
+  text-transform: uppercase;
+  font-size: 12px;
+  padding-top: 0px;
+  margin-bottom: 0px;
+}
+
