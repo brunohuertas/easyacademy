@@ -1,0 +1,117 @@
+body {
+  background: #fafafa;
+  color: #125688;
+  font-family: Montserrat; 
+  margin:0px auto;
+  padding-bottom:0px;
+  padding-top: 0px;}
+
+#main-container {
+  margin: 10px auto;
+  margin-bottom: 0;
+  padding-bottom:0;
+   }
+
+
+.login-box,
+.signup-box {
+  background-color: white;
+  border: 1px solid #edeeee;
+  border-radius: 3px;
+  padding: 10px 0;
+  text-align: center;
+  margin-bottom:0px;
+   }
+
+.signup-box .EasyAcademy {
+  color: #125688;
+  font-family: 'Pacifico', cursive;
+  font-size: 50px;
+  padding-bottom: 0px;
+  padding-top: 30px;
+  margin-top: 0px; }
+
+.signup-box .EasyAcademy_small {
+  color: #125688;
+  font-family: 'Pacifico', cursive;
+  font-size: 34px;
+  padding-bottom: 0px;
+  padding-top: 30px;
+  margin-top: 0px; }
+  
+.signup-form {
+  
+  margin: 0 auto;
+  }
+
+.signup-form h2 {
+
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+  font-size: 1em;
+  padding-top: 0px;
+  margin-top: 0px;
+  padding-left: 0px;
+  margin-left: 28px;
+  padding-right: 0px;
+  margin-right: 25px;
+  text-align: left; }
+
+
+  .signup-small h2 {
+  font-family: 'Open Sans', sans-serif;  
+  color: #000000;
+  font-size: 0.8em;
+  padding-top: 0px;
+  margin-top: 0px;
+  padding-left: 0px;
+  margin-left: 2px;
+  padding-right: 0px;
+  margin-right: 2px;
+  text-align: left; }
+
+   .signup-small h3 {
+  font-family: 'Pacifico', cursive;  
+  color: #125688;
+  font-size: 20px;
+  padding-top: 0px;
+  margin-top: 0px;
+  padding-left: 0px;
+  margin-left: 2px;
+  padding-right: 0px;
+  margin-right: 2px; }
+
+  
+  .signup-form h3 {
+
+  font-family: 'Pacifico', cursive;
+  color: #125688;
+  font-size: 20px;
+  padding-top: 0px;
+  margin-top: 0px;
+  padding-left: 0px;
+  margin-left: 28px;
+  padding-right: 0px;
+  margin-right: 25px;
+  text-align: left; }
+
+
+
+.signup-form .btn.btn-fb, .signup-form .btn-fb.btn-large {
+  background-color: #4090db;
+  font-size: .8em;
+  padding-top: 0px; }
+
+.signup-form .btn.btn-signup, .signup-form .btn-signup.btn-large {
+  background-color: #125688; }
+
+.site-footer {
+  text-transform: uppercase;
+  font-size: 12px;
+  padding-top: 0px;
+  margin-bottom: 0px;
+}
+.lista {
+  margin: 0px;
+  padding: 0px;
+}

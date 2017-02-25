@@ -61,5 +61,7 @@ body {
   padding-top: 0px;
   margin-bottom: 0px;
 }
-
-
+.lista {
+  margin: 0px;
+  padding: 0px;
+}
